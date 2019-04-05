@@ -11,7 +11,7 @@
     <string name="value_persentase">5% / Bulan</string>
     <string name="value_slot">8 Orang</string>
     <string name="label_jum_peserta">Jumlah Peserta : </string>
-    <string name="value_jum_peserta">3 Orang sudah terdaftar</string>
+    <string name="value_jum_peserta"> 3 Orang sudah terdaftar</string>
     <string name="label_mentor">Mentor</string>
     <string name="mentor_jurusan">S1 Teknik Informatika Unpad</string>
     <string name="label_tujuan">Tujuan</string>
